@@ -71,8 +71,7 @@
 
 ### 📌 Pinned Highlights
 
-> Pin your top 4-6 repos on your GitHub profile (Customize your pins → select repos).
-> Prioritize: your best Flutter app, a backend/API project, and anything with good docs/tests — recruiters click into pinned repos first.
+
 
 ---
 
